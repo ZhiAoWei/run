@@ -5,18 +5,19 @@ cabinet
 
 cable
 
-coffee
-
-<font color="#dd0000">?</font>
+```diff
+- cafe
+```
 
 ```diff
-+ green color text
-- red color text
+- cafeteria
 ```
 
 cage
 
-canbrage
+```diff
+- Cambridge
+```
 
 camel
 
@@ -24,61 +25,103 @@ camera
 
 camp
 
-?
+```diff
+- campus
+```
 
 candidate
 
 candle
 
-?
+```diff
+- canteen
+```
 
 capital
 
-captial
+```diff
+- capsule
+```
 
-colbon
+```diff
+- carbon
+```
 
 care
 
-coera
+```diff
+- career
+```
 
-cupper
+```diff
+- carpet
+```
 
-cofin???
+```diff
+- carving
+```
 
-?
+```diff
+- cashier
+```
 
-?
+```diff
+- castle
+```
+
+```diff
+- category
+```
+
+```diff
+- cathedral
+```
 
 cause
 
 cave
 
-cinse
+```diff
+- cents
+```
 
 century
 
 centificate
 
-cheer
+```diff
+- chair
+```
 
-charm
+```diff
+- chance
+```
 
-chacellar
+```diff
+- chancellor
+```
 
-chanlle
+```diff
+- channel
+```
 
 chapter
 
-?
+```diff
+- character
+```
 
 charge
 
 charity
 
-char
+```diff
+- chart
+```
 
-charp
+```diff
+- chat
+```
 
 checklist
 
@@ -86,7 +129,9 @@ checks
 
 cheese
 
-?
+```diff
+- chemist`s
+```
 
 chest
 
@@ -96,7 +141,9 @@ chicken
 
 child
 
-?
+```diff
+- chin
+```
 
 chocolate
 
@@ -104,135 +151,213 @@ choice
 
 church
 
-cinemar
+```diff
+- cinema
+```
 
-?
+```diff
+- circle
+```
 
 city
 
 clarity
 
-clinar
+```diff
+- cleaner
+```
 
 cleaning
 
-clience
+```diff
+- client
+```
 
-cleast
+```diff
+- cliffs
+```
 
 climate
 
-?
+```diff
+- clinic
+```
 
 clock
 
-close?
+```diff
+- cloth
+```
 
-closing
+```diff
+- clothing
+```
 
 club
 
 coach
 
-?
+```diff
+- coast
+```
 
-cold
+```diff
+- code
+```
 
-coack
+```diff
+- coke
+```
 
-colar
+```diff
+- cola
+```
 
-college
+```diff
+- colleague
+```
 
 college
 
 comedy
 
-?
+```diff
+- commercials
+```
 
-?
+```diff
+- commuter
+```
 
-companien
+```diff
+- companion
+```
 
 company
 
-complient
+```diff
+- complaint
+```
 
 complex
 
 computer
 
-?
+```diff
+- concert
+```
 
 conclusion
 
 condition
 
-confences
+```diff
+- conferences
+```
 
 confidence
 
-?
+```diff
+- confirmation
+```
 
-?
+```diff
+- congestion
+```
 
-?
+```diff
+- conqueror
+```
 
-?
+```diff
+- conquest
+```
 
-conservation
+```diff
+- conversation
+```
 
 conservation
 
 construction
 
-?
+```diff
+- consultant
+```
 
 consumption
 
-?...
+```diff
+- contact
+```
 
-.
+```diff
+- container
+```
 
-?
+```diff
+- contaminants
+```
 
-?...
+```diff
+- contamination
+```
 
 content
 
-?
+```diff
+- continent
+```
 
-contruct
-
-contructs
+```diff
+- contract
+```
 
 controversy
 
-convience
+```diff
+- convenience
+```
 
 cooperation
 
-cope
+```diff
+- cop
+```
 
 copy
 
-cooperation
+```diff
+- corporation
+```
 
-cops
+```diff
+- corpse
+```
 
-?
+```diff
+- correspondence
+```
 
 cost
 
 costume
 
-?
+```diff
+- cot
+```
 
-?
+```diff
+- cottage
+```
 
-coff???
+```diff
+- cough
+```
 
-?
+```diff
+- council
+```
 
 country
 
@@ -240,39 +365,71 @@ course
 
 crack
 
-?
+```diff
+- craft
+```
 
-?
+```diff
+- cream
+```
 
-?
+```diff
+- credit
+```
 
-?
+```diff
+- creek
+```
 
-cry???
+```diff
+- crime
+```
 
-cries
+```diff
+- crisis
+```
 
-?
+```diff
+- crocodile
+```
 
-?
+```diff
+- crop
+```
 
-?
+```diff
+- cultivation
+```
 
-?
+```diff
+- culture
+```
 
-cop>///?
+```diff
+- cup
+```
 
-?
+```diff
+- cupboard
+```
 
-?
+```diff
+- curtain
+```
 
-?
+```diff
+- customer
+```
 
-?
+```diff
+- cutlery
+```
 
 cycle
 
-?
+```diff
+- cycling
+```
 
 damage
 
@@ -282,7 +439,9 @@ data
 
 date
 
-?
+```diff
+- day
+```
 
 deadline
 
