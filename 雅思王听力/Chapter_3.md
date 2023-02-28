@@ -450,3 +450,320 @@ deadline
 debate
 
 # Test 03
+debt
+
+decade
+
+decision
+
+decline
+
+```diff
+- decorations
+```
+
+delay
+
+delegate
+
+delight
+
+delivery
+
+```diff
+- demonstration
+```
+
+dentist
+
+department
+
+deposit
+
+depth
+
+description
+
+```diff
+- desert
+```
+
+design
+
+designer
+
+```diff
+- desire
+```
+
+desks
+
+destination
+
+detail
+
+diary
+
+dictation
+
+diet
+
+```diff
+- dining
+```
+
+dinner
+
+```diff
+- dioxide
+```
+
+```diff
+- direction
+```
+
+```diff
+- director
+```
+
+```diff
+- disagreement
+```
+
+```diff
+- disaster
+```
+
+```diff
+- discipline
+```
+
+disco
+
+
+```diff
+- discomfort
+```
+
+```diff
+- discos
+```
+
+discount
+
+discovery
+
+```diff
+- disease
+```
+
+dish
+
+```diff
+- disposal
+```
+
+```diff
+- dispute
+```
+
+```diff
+- distance
+```
+
+```diff
+- divorce
+```
+
+document
+
+```diff
+- documentary
+```
+
+donation
+
+donkey
+
+draft
+
+drama
+
+draw
+
+drawer
+
+drink
+
+drinking
+
+driver
+
+driving
+
+drug
+
+drum
+
+due
+
+duration
+
+dust
+
+duty
+
+```diff
+- eagle
+```
+
+```diff
+- ear
+```
+
+east
+
+eating
+
+```diff
+- economy
+```
+
+editor
+
+education
+
+```diff
+- elbow
+```
+
+elder
+
+electricity
+
+elements
+
+elevator
+
+emotion
+
+```diff
+- emperor
+```
+
+```diff
+- employee
+```
+
+```diff
+- employer
+```
+
+```diff
+- encyclopedia
+```
+
+ending
+
+energy
+
+engine
+
+engineer
+
+```diff
+- entrance
+```
+
+```diff
+- epidemic
+```
+
+equipment
+
+```diff
+- ethic
+```
+
+evening
+
+event
+
+evident
+
+examination
+
+```diff
+- example
+```
+
+```diff
+- exception
+```
+
+exchange
+
+excitement
+
+```diff
+- excursion
+```
+
+excuse
+
+```diff
+- exercises
+```
+
+```diff
+- exhibition
+```
+
+```diff
+- exsitence
+```
+
+exsiting
+
+expand
+
+```diff
+- expense
+```
+
+experiment
+
+```diff
+- expert
+```
+
+```diff
+- explanation
+```
+
+```diff
+- explosion
+```
+
+```diff
+- exposition
+```
+
+```diff
+- exposure
+```
+
+extention
+
+```diff
+- facility
+```
+
+```diff
+- factor
+```
+
+```diff
+- factory
+```
+
