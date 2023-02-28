@@ -87,7 +87,9 @@ cave
 
 century
 
-centificate
+```diff
+- certificate
+```
 
 ```diff
 - chair
