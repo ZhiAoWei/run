@@ -9,6 +9,11 @@ coffee
 
 <font color="#dd0000">?</font>
 
+```diff
++ green color text
+- red color text
+```
+
 cage
 
 canbrage
