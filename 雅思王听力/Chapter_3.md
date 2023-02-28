@@ -7,7 +7,7 @@ cable
 
 coffee
 
-<font color=red>?</font>
+<font color="#dd0000">?</font>
 
 cage
 
