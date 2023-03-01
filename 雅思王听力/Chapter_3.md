@@ -767,3 +767,305 @@ extention
 - factory
 ```
 
+# Test 04
+```diff
+- faculty
+```
+
+failure
+
+```diff
+- falcon
+```
+
+```diff
+- fan
+```
+
+```diff
+- fare
+```
+
+farm
+
+farmer
+
+farming
+
+fashion
+
+fat
+
+```diff
+- feast
+```
+
+feather
+
+```diff
+- feature
+```
+
+feedback
+
+fellowship
+
+female
+
+```diff
+- ferries
+```
+
+```diff
+- festival
+```
+
+```diff
+- field
+```
+
+figure
+
+```diff
+- film
+```
+
+finding
+
+finger
+
+firm
+
+fish
+
+fishing
+
+flag
+
+flash
+
+flat
+
+flight
+
+```diff
+- flood
+```
+
+```diff
+- flooding
+```
+
+```diff
+- flour
+```
+
+```diff
+- flourish
+```
+
+flow
+
+flu
+
+fly
+
+forest
+
+forestry
+
+form
+
+```diff
+- formula
+```
+
+fortnight
+
+fortune
+
+```diff
+- foyer
+```
+
+freedom
+
+freezer
+
+```diff
+- freshman
+```
+
+```diff
+- fruit
+```
+
+```diff
+- fur
+```
+
+```diff
+- furniture
+```
+
+future
+
+```diff
+- gallery
+```
+
+gap
+
+garage
+
+garbage
+
+```diff
+- garden
+```
+
+```diff
+- gasoline
+```
+
+gender
+
+germ
+
+gesture
+
+glass
+
+goal
+
+```diff
+- gold
+```
+
+golf
+
+```diff
+- grade
+```
+
+```diff
+- grades
+```
+
+graduate
+
+graduates
+
+grain
+
+```diff
+- grass
+```
+
+green
+
+ground
+
+```diff
+- group
+```
+
+```diff
+- growth
+```
+
+```diff
+- guest
+```
+
+guide
+
+```diff
+- gulf
+```
+
+guy
+
+gym
+
+habit
+
+hand
+
+handball
+
+handbook
+
+handling
+
+handout
+
+```diff
+- hat
+```
+
+```diff
+- headache
+```
+
+heading
+
+```diff
+- health
+```
+
+hearing
+
+heart
+
+heating
+
+```diff
+- hen
+```
+
+herd
+
+hero
+
+```diff
+- heroes
+```
+
+```diff
+- heroine
+```
+
+hike
+
+hiking
+
+hint
+
+hints
+
+historian
+
+hit
+
+hits
+
+hobby
+
+holiday
+
+horse
+
+hostiptal
+
+housework
+
+housing
+
+```diff
+- households
+```
+
+```diff
+- hour
+```
