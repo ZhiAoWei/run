@@ -2121,3 +2121,424 @@ rocket
 - role
 ```
 
+# Test 08
+
+roommates
+
+route
+
+```diff
+- rule
+```
+
+```diff
+- safari
+```
+
+safety
+
+```diff
+- sail
+```
+
+saling
+
+salad
+
+salads
+
+salary
+
+sale
+
+```diff
+- salt
+```
+
+```diff
+- sample
+```
+
+```diff
+- sandal
+```
+
+satelite
+
+```diff
+- sauce
+```
+
+saving
+
+scale
+
+```diff
+- scandal
+```
+
+```diff
+- scandals
+```
+
+scar
+
+```diff
+- scent
+```
+
+schedule
+
+scheme
+
+scholoar
+
+scholarship
+
+science
+
+scientist
+
+score
+
+```diff
+- script
+```
+
+```diff
+- sculpture
+```
+
+```diff
+- sea
+```
+
+season
+
+seat
+
+second
+
+```diff
+- secretary
+```
+
+section
+
+sector
+
+selection
+
+selections
+
+seminar
+
+sense
+
+sentence
+
+```diff
+- servant
+```
+
+service
+
+```diff
+- sewage
+```
+
+```diff
+- sewer
+```
+
+sex
+
+shade
+
+sheep
+
+sheet
+
+shelf
+
+```diff
+- shell
+```
+
+shelter
+
+```diff
+- ship
+```
+
+shoe
+
+```diff
+- shoplifters
+```
+
+shopper
+
+shortage
+
+shower
+
+```diff
+- side
+```
+
+```diff
+- sight
+```
+
+```diff
+- sign
+```
+
+```diff
+- signature
+```
+
+silence
+
+simulation
+
+single
+
+site
+
+size
+
+```diff
+- skating
+```
+
+```diff
+- skeleton
+```
+
+```diff
+- skill
+```
+
+```diff
+- skin
+```
+
+```diff
+- skirt
+```
+
+```diff
+- slang
+```
+
+slaves
+
+sleep
+
+sleeping
+
+```diff
+- slip
+```
+
+smell
+
+```diff
+- smoke
+```
+
+smoking
+
+```diff
+- snack
+```
+
+soil
+
+solution
+
+sound
+
+source
+
+south
+
+southeast
+
+southwest
+
+space
+
+speaker
+
+speaking
+
+speed
+
+spending
+
+spider
+
+```diff
+- sponsor
+```
+
+```diff
+- spoons
+```
+
+```diff
+- sportsman
+```
+
+spot
+
+```diff
+- stability
+```
+
+```diff
+- stack
+```
+
+stage
+
+```diff
+- stair
+```
+
+standard
+
+star
+
+starter
+
+starting
+
+state
+
+statement
+
+station
+
+status
+
+```diff
+- steak
+```
+
+steam
+
+step
+
+sting
+
+```diff
+- stock
+```
+
+```diff
+- stomach
+```
+
+```diff
+- stomachache
+```
+
+stone
+
+store
+
+story
+
+```diff
+- strategy
+```
+
+strength
+
+```diff
+- strike
+```
+
+style
+
+subject
+
+```diff
+- submit
+```
+
+```diff
+- subsidy
+```
+
+suburb
+
+sugar
+
+```diff
+- suit
+```
+
+```diff
+- sunshield
+```
+
+```diff
+- supervisor
+```
+
+support
+
+surface
+
+```diff
+- surgeon
+```
+
+surname
+
+surprise
+
+```diff
+- survey
+```
+
+survival
+
+sweater
+
+switch
+
+switches
+
+```diff
+- symptom
+```
+
+```diff
+- syndicate
+```
+
+```diff
+- syrup
+```
+
+```diff
+- system
+```
+
+table
+
+tablet
+
+```diff
+- tape
+```
+
+```diff
+- tax
+```
