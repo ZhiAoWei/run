@@ -2542,3 +2542,415 @@ tablet
 ```diff
 - tax
 ```
+
+# Test 09
+```diff
+- taxi
+```
+
+tea
+
+teacher
+
+teaching
+
+team
+
+```diff
+- jargon
+```
+
+term
+
+technology
+
+```diff
+- teeth
+```
+
+telephone
+
+telescope
+
+television
+
+temper
+
+temple
+
+text
+
+```diff
+- texture
+```
+
+galaxy
+
+```diff
+- theft
+```
+
+```diff
+- theory
+```
+
+```diff
+- therapist
+```
+
+```diff
+- therapy
+```
+
+```diff
+- thesis
+```
+
+```diff
+- thief
+```
+
+```diff
+- thieves
+```
+
+thinking
+
+third
+
+thought
+
+```diff
+- threat
+```
+
+```diff
+- thriller
+```
+
+```diff
+- ticket
+```
+
+```diff
+- tide
+```
+
+```diff
+- tides
+```
+
+tile
+
+timber
+
+time
+
+title
+
+toaster
+
+toilet
+
+tomato
+
+tone
+
+```diff
+- tool
+```
+
+top
+
+topic
+
+total
+
+touching
+
+```diff
+- tour
+```
+
+```diff
+- touring
+```
+
+```diff
+- tourism
+```
+
+```diff
+- tourist
+```
+
+towel
+
+```diff
+- tower
+```
+
+town
+
+track
+
+```diff
+- tractor
+```
+
+```diff
+- trade
+```
+
+```diff
+- tram
+```
+
+```diff
+- tragedy
+```
+
+trailer
+
+training
+
+```diff
+- trend
+```
+
+travel
+
+traveler
+
+```diff
+- treatment
+```
+
+trip
+
+```diff
+- tribe
+```
+
+tribute
+
+tributes
+
+```diff
+- trinity
+```
+
+```diff
+- trolley
+```
+
+trouble
+
+```diff
+- tube
+```
+
+```diff
+- tunnels
+```
+
+tuition
+
+tune
+
+tunes
+
+tutor
+
+type
+
+```diff
+- umpire
+```
+
+understanding
+
+```diff
+- utensil
+```
+
+uniform
+
+union
+
+universities
+
+usage
+
+```diff
+- vacancy
+```
+
+vacation
+
+value
+
+```diff
+- particulars
+```
+
+```diff
+- variety
+```
+
+vegetables
+
+```diff
+- velvet
+```
+
+```diff
+- vet
+```
+
+video
+
+view
+
+village
+
+```diff
+- vinegar
+```
+
+```diff
+- visa
+```
+
+visitor
+
+vitamin
+
+vocation
+
+volunteer
+
+volunteers
+
+waist
+
+```diff
+- waiter
+```
+
+walk
+
+walking
+
+```diff
+- wall
+```
+
+```diff
+- world
+```
+
+warming
+
+washing
+
+```diff
+- wasp
+```
+
+waste
+
+```diff
+- wasteland
+```
+
+water
+
+```diff
+- wave
+```
+
+wax
+
+```diff
+- wealth
+```
+
+```diff
+- weapon
+```
+
+weather
+
+```diff
+- weeds
+```
+
+```diff
+- week
+```
+
+```diff
+- weekday
+```
+
+```diff
+- weekend
+```
+
+```diff
+- weight
+```
+
+```diff
+- welfare
+```
+
+west
+
+```diff
+- wetland
+```
+
+```diff
+- whale
+```
+
+```diff
+- wheel
+```
+
+```diff
+- width
+```
+
+willow
+
+wind
+
+```diff
+- wing
+```
+
+word
+
+workforce
+
+working
+
+```diff
+- wound
+```
+
+writing
+
+year
+
+```diff
+- yoga
+```
+
+youth
+
+zero
+
