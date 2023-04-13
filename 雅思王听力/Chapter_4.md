@@ -509,19 +509,27 @@ fancy
 
 fashinable
 
-favorite
+```diff
+- favourite
+```
 
 final
 
 financial
 
-fined
+fine
 
-?
+```diff
+- firm
+```
 
-flexable
+```diff
+- flexible
+```
 
-forum
+```diff
+- foreign
+```
 
 formal
 
@@ -531,7 +539,9 @@ free
 
 frequent
 
-fundemental
+```diff
+- fundamental
+```
 
 further
 
@@ -539,7 +549,9 @@ general
 
 genetic
 
-giographical
+```diff
+- geographical
+```
 
 global
 
@@ -547,7 +559,9 @@ handy
 
 harmful
 
-?
+```diff
+- hazardous
+```
 
 healthy
 
@@ -557,19 +571,31 @@ heavy
 
 helpful
 
-?
+```diff
+- herbivorous
+```
 
-hire
+```diff
+- higher
+```
 
-?
+```diff
+- highly-trained
+```
 
 historical
 
-?
+```diff
+- least
+```
 
 ill
 
 illegal
+
+```diff
+- immune
+```
 
 important
 
@@ -589,15 +615,21 @@ initial
 
 inspiring
 
-impact
+```diff
+- intact
+```
 
-inteligent
+```diff
+- intelligent
+```
 
 intensive
 
 interesting
 
-?
+```diff
+- intermediate
+```
 
 internal
 
@@ -605,13 +637,21 @@ international
 
 irregular
 
-?
+```diff
+- irritable
+```
 
-?
+```diff
+- isolated
+```
 
-?
+```diff
+- key
+```
 
-laterest
+```diff
+- latest
+```
 
 legal
 
@@ -625,11 +665,15 @@ magical
 
 magnificent
 
-?
+```diff
+- major
+```
 
 martial
 
-?
+```diff
+- mature
+```
 
 medical
 
@@ -637,11 +681,17 @@ mental
 
 mid
 
-?
+```diff
+- migratory
+```
 
-?
+```diff
+- military
+```
 
-?
+```diff
+- miserable
+```
 
 mobile
 
@@ -651,23 +701,35 @@ modern
 
 musical
 
-nectrual
+```diff
+- natural
+```
 
-magitive
+```diff
+- negative
+```
 
-?
+```diff
+- neighbouring
+```
 
 nervous
 
-noval
+```diff
+- noble
+```
 
 noisy
 
-nunactive
+```diff
+- non-active
+```
 
 normal
 
-?
+```diff
+- northern
+```
 
 objective
 
@@ -683,15 +745,23 @@ oral
 
 organic
 
-overal
+```diff
+- overall
+```
 
 overhead
 
-oversee
+```diff
+- overseas
+```
 
-?
+```diff
+- parental
+```
 
-?
+```diff
+- payable
+```
 
 perfect
 
@@ -699,10 +769,20 @@ personal
 
 physical
 
-present
+```diff
+- pleasant
+```
 
-?
+```diff
+- political
+```
 
-?
+```diff
+- pop
+```
 
-?
+# T3
+
+
+
+# T4
