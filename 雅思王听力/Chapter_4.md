@@ -783,6 +783,409 @@ physical
 
 # T3
 
+popular
 
+positive
+
+possible
+
+potential
+
+practical
+
+```diff
+- precious
+```
+
+predictable
+
+present
+
+previous
+
+printed
+
+private
+
+```diff
+- professional
+```
+
+```diff
+- promising
+```
+
+```diff
+- psychiatric
+```
+
+```diff
+- psychological
+```
+
+```diff
+- public
+```
+
+```diff
+- pure
+```
+
+purest
+
+```diff
+- queen's
+```
+
+random
+
+rapid
+
+```diff
+- rare
+```
+
+```diff
+- raw
+```
+
+```diff
+- recycled
+```
+
+```diff
+- redundant
+```
+
+regional
+
+regular
+
+```diff
+- reinforced
+```
+
+related
+
+```diff
+- relevant
+```
+
+reliable
+
+remote
+
+```diff
+- resistane=t
+```
+
+reverse
+
+rising
+
+royal
+
+rural
+
+```diff
+- sacked
+```
+
+safe
+
+```diff
+- satisfactory
+```
+
+```diff
+- scarce
+```
+
+```diff
+- scientific
+```
+
+```diff
+- seasonal
+```
+
+```diff
+- seasoned
+```
+
+secondary
+
+```diff
+- second-hand
+```
+
+```diff
+- self-funded
+```
+
+```diff
+- self-sufficient
+```
+
+```diff
+- senior
+```
+
+```diff
+- sensible
+```
+
+```diff
+- serial
+```
+
+serious
+
+```diff
+- seven-screen
+```
+
+several
+
+```diff
+- shared
+```
+
+```diff
+- sharp
+```
+
+short
+
+```diff
+- sick
+```
+
+silent
+
+silver
+
+similar
+
+simple
+
+sleepy
+
+```diff
+- slim
+```
+
+smart
+
+```diff
+- smelly
+```
+
+social
+
+solar
+
+```diff
+- soundproof
+```
+
+southern
+
+spacious
+
+spare
+
+```diff
+- special
+```
+
+```diff
+- specialized
+```
+
+```diff
+- species
+```
+
+specific
+
+spiral
+
+stable
+
+steady
+
+```diff
+- stout
+```
+
+```diff
+- strained
+```
+
+stressful
+
+```diff
+- stretching
+```
+
+strong
+
+stronger
+
+subjective
+
+```diff
+- successful
+```
+
+```diff
+- sufficient
+```
+
+```diff
+- suitable
+```
+
+super
+
+suprised
+
+systematic
+
+```diff
+- technical
+```
+
+```diff
+- theoretical
+```
+
+traditional
+
+```diff
+- troublesome
+```
+
+```diff
+- typical
+```
+
+```diff
+- unanimous
+```
+
+uncomfortable
+
+```diff
+- unconvicing
+```
+
+underground
+
+```diff
+- unfair
+```
+
+unhealthy
+
+```diff
+- unique
+```
+
+united
+
+unreliable
+
+```diff
+- unsocial
+```
+
+unusual
+
+useful
+
+useless
+
+usual
+
+```diff
+- various
+```
+
+violent
+
+```diff
+- virtual
+```
+
+```diff
+- visible
+```
+
+visual
+
+```diff
+- warm
+```
+
+```diff
+- washable
+```
+
+```diff
+- wealthy
+```
+
+weakly
+
+western
+
+```diff
+- whole
+```
+
+```diff
+- wide
+```
+
+wise
+
+worthwhile
+
+worthy
 
 # T4
+```diff
+- almost
+```
+
+currently
+
+directly
+
+```diff
+- effectively
+```
+
+```diff
+- efficiently
+```
+
+originally
+
+physically
+
+```diff
+- professionally
+```
+
+rapidly
+
+regularly
+
+```diff
+- scarcely
+```
+
+virtually
