@@ -210,47 +210,79 @@ advanced
 
 advisable
 
-?
+```diff
+- allergic
+```
 
 alternative
 
 amazing
 
-?
+```diff
+- ambiguous
+```
 
-abitious
+```diff
+- ambitious
+```
 
-?
+```diff
+- analytical
+```
 
-accient
+```diff
+- ancient
+```
 
 angry
 
 applied
 
-?
+```diff
+- archaeological
+```
 
-?
+```diff
+- artificial
+```
 
-?
+```diff
+- artistic
+```
 
-?
+```diff
+- ascending
+```
 
-admisc
+```diff
+- atmospheric
+```
 
-attantive
+```diff
+- attentive
+```
 
-?
+```diff
+- audio
+```
 
 available
 
-?
+```diff
+- aware
+```
 
-?
+```diff
+- awful
+```
 
-?
+```diff
+- auto
+```
 
-?
+```diff
+- bald
+```
 
 baren
 
@@ -262,25 +294,37 @@ biological
 
 blind
 
-blund
+```diff
+- blond
+```
 
-?
+```diff
+- British
+```
 
-?
+```diff
+- broad
+```
 
 baried
 
-cacculating
+```diff
+- calculating
+```
 
 casual
 
-centural
+```diff
+- central
+```
 
 challenging
 
 cheaper
 
-?
+```diff
+- cheerful
+```
 
 children
 
@@ -288,13 +332,17 @@ classical
 
 clean
 
-cleaner
+```diff
+- cleanest
+```
 
 clear
 
 clever
 
-?
+```diff
+- coastal
+```
 
 comfortable
 
@@ -302,17 +350,31 @@ common
 
 commonsense
 
-complite
+```diff
+- complete
+```
 
-complited
+```diff
+- completed
+```
 
 confident
 
-convinient
+```diff
+- conservative
+```
 
-?
+```diff
+- convenient
+```
 
-crupt
+```diff
+- cooperative
+```
+
+```diff
+- corrupt
+```
 
 costly
 
@@ -322,59 +384,89 @@ critical
 
 crucial
 
-?
+```diff
+- cultural
+```
 
-?
+```diff
+- curly
+```
 
-curunt
+```diff
+- current
+```
 
 daily
 
 dangerous
 
-?
+```diff
+- dark
+```
 
 departmental
 
 dependent
 
-detail
+```diff
+- detailed
+```
 
 different
 
-?
+```diff
+- direct
+```
 
-disable
+```diff
+- disabled
+```
 
 distant
 
-?
+```diff
+- distinct
+```
 
-?
+```diff
+- domestic
+```
 
-?
+```diff
+- dominant
+```
 
-easten
+```diff
+- eastern
+```
 
-?
+```diff
+- economic
+```
 
 educational
 
 effective
 
-?
+```diff
+- efficient
+```
 
 elementary
 
 empty
 
-?
+```diff
+- enormous
+```
 
 enthusiastic
 
 environmental
 
-eccential
+```diff
+- essential
+```
 
 excited
 
@@ -384,13 +476,232 @@ existent
 
 exspensive
 
-exeperiment
+```diff
+- experienced
+```
 
-?
+```diff
+- experimental
+```
 
-?
+```diff
+- extensive
+```
 
 extra
+
+```diff
+- fair
+```
+
+```diff
+- fake
+```
+
+# T2
+famed
+
+familiar
+
+famous
+
+fancy
+
+fashinable
+
+favorite
+
+final
+
+financial
+
+fined
+
+?
+
+flexable
+
+forum
+
+formal
+
+former
+
+free
+
+frequent
+
+fundemental
+
+further
+
+general
+
+genetic
+
+giographical
+
+global
+
+handy
+
+harmful
+
+?
+
+healthy
+
+heavier
+
+heavy
+
+helpful
+
+?
+
+hire
+
+?
+
+historical
+
+?
+
+ill
+
+illegal
+
+important
+
+impossible
+
+inaccurate
+
+inadequate
+
+individual
+
+industrial
+
+informative
+
+initial
+
+inspiring
+
+impact
+
+inteligent
+
+intensive
+
+interesting
+
+?
+
+internal
+
+international
+
+irregular
+
+?
+
+?
+
+?
+
+laterest
+
+legal
+
+little-known
+
+loyal
+
+magic
+
+magical
+
+magnificent
+
+?
+
+martial
+
+?
+
+medical
+
+mental
+
+mid
+
+?
+
+?
+
+?
+
+mobile
+
+moderate
+
+modern
+
+musical
+
+nectrual
+
+magitive
+
+?
+
+nervous
+
+noval
+
+noisy
+
+nunactive
+
+normal
+
+?
+
+objective
+
+occupational
+
+olympic
+
+optic
+
+optional
+
+oral
+
+organic
+
+overal
+
+overhead
+
+oversee
+
+?
+
+?
+
+perfect
+
+personal
+
+physical
+
+present
+
+?
 
 ?
 
