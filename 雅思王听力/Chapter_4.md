@@ -14,90 +14,108 @@
 
 pregnent
 
-dumb
+```diff
+- damp
+```
 
 obvious
 
 punctual
 
-local
+```diff
+- vocal
+```
 
 complex
 
 stable
 
-natual
-
 ```diff
-- cafe
-```
-
-incificient
-
-```diff
-- cafe
+- natural
 ```
 
 ```diff
-- cafe
+- beneficial
 ```
 
 ```diff
-- cafe
+- insufficient
+```
+
+```diff
+- vertical
+```
+
+```diff
+- portable
+```
+
+```diff
+- thriving
 ```
 
 objective
 
 ```diff
-- cafe
+- enthusiastic
 ```
 
 sensitive
 
-influentual
-
 ```diff
-- cafe
+- influential
 ```
 
 ```diff
-- cafe
+- aggressive
 ```
 
 ```diff
-- cafe
+- exotic
 ```
 
 ```diff
-- cafe
-```
-
-housal
-
-greatal
-
-comtributory
-
-```diff
-- cafe
+- compulsory
 ```
 
 ```diff
-- cafe
+- innovative
 ```
 
 ```diff
-- cafe
-```
-
-inviolent
-
-```diff
-- cafe
+- household
 ```
 
 ```diff
-- cafe
+- grateful
+```
+
+```diff
+- contributory
+```
+
+```diff
+- packaging
+```
+
+```diff
+- stylish
+```
+
+```diff
+- athletic
+```
+
+```diff
+- invalid
+```
+
+```diff
+- imaginable
+```
+
+```diff
+- administrative
 ```
 
 steady
@@ -111,7 +129,7 @@ automatic
 cautious
 
 ```diff
-- cafe
+- agricultural
 ```
 
 extinct
@@ -121,15 +139,17 @@ ideal
 occasional
 
 ```diff
-- cafe
+- durable
 ```
 
-permernant
+```diff
+- permanent
+```
 
 surprising
 
 ```diff
-- cafe
+- valuable
 ```
 
 confusing
@@ -148,15 +168,230 @@ commercial
 
 reflective
 
-lating
-
 ```diff
-- cafe
+- latin
 ```
 
-permernently
-
 ```diff
-- cafe
+- implement
 ```
 
+```diff
+- permanently
+```
+
+```diff
+- electronically
+```
+
+# T1
+
+abnormal
+
+```diff
+- academic
+```
+
+```diff
+- accessible
+```
+
+accountable
+
+```diff
+- accurate
+```
+
+additional
+
+adequate
+
+advanced
+
+advisable
+
+?
+
+alternative
+
+amazing
+
+?
+
+abitious
+
+?
+
+accient
+
+angry
+
+applied
+
+?
+
+?
+
+?
+
+?
+
+admisc
+
+attantive
+
+?
+
+available
+
+?
+
+?
+
+?
+
+?
+
+baren
+
+basic
+
+beautiful
+
+biological
+
+blind
+
+blund
+
+?
+
+?
+
+baried
+
+cacculating
+
+casual
+
+centural
+
+challenging
+
+cheaper
+
+?
+
+children
+
+classical
+
+clean
+
+cleaner
+
+clear
+
+clever
+
+?
+
+comfortable
+
+common
+
+commonsense
+
+complite
+
+complited
+
+confident
+
+convinient
+
+?
+
+crupt
+
+costly
+
+cream
+
+critical
+
+crucial
+
+?
+
+?
+
+curunt
+
+daily
+
+dangerous
+
+?
+
+departmental
+
+dependent
+
+detail
+
+different
+
+?
+
+disable
+
+distant
+
+?
+
+?
+
+?
+
+easten
+
+?
+
+educational
+
+effective
+
+?
+
+elementary
+
+empty
+
+?
+
+enthusiastic
+
+environmental
+
+eccential
+
+excited
+
+exciting
+
+existent
+
+exspensive
+
+exeperiment
+
+?
+
+?
+
+extra
+
+?
+
+?
